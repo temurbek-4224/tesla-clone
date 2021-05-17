@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/temurbek-4224/tesla-clone.git/static/css/main.6e8c77c7.chunk.css",
+    "main.js": "/temurbek-4224/tesla-clone.git/static/js/main.64047fc9.chunk.js",
+    "main.js.map": "/temurbek-4224/tesla-clone.git/static/js/main.64047fc9.chunk.js.map",
+    "runtime-main.js": "/temurbek-4224/tesla-clone.git/static/js/runtime-main.1423472a.js",
+    "runtime-main.js.map": "/temurbek-4224/tesla-clone.git/static/js/runtime-main.1423472a.js.map",
+    "static/js/2.8e019500.chunk.js": "/temurbek-4224/tesla-clone.git/static/js/2.8e019500.chunk.js",
+    "static/js/2.8e019500.chunk.js.map": "/temurbek-4224/tesla-clone.git/static/js/2.8e019500.chunk.js.map",
+    "index.html": "/temurbek-4224/tesla-clone.git/index.html",
+    "static/css/main.6e8c77c7.chunk.css.map": "/temurbek-4224/tesla-clone.git/static/css/main.6e8c77c7.chunk.css.map",
+    "static/js/2.8e019500.chunk.js.LICENSE.txt": "/temurbek-4224/tesla-clone.git/static/js/2.8e019500.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/temurbek-4224/tesla-clone.git/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1423472a.js",
+    "static/js/2.8e019500.chunk.js",
+    "static/css/main.6e8c77c7.chunk.css",
+    "static/js/main.64047fc9.chunk.js"
+  ]
+}
